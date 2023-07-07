@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="70f3edbf-9eee-4499-a04a-34375e34f8c5" name="BASE_209">
+        <fileTransfer rootFolder="/var/www/importacao" accessType="SFTP" host="170.83.105.136" port="209" sshConfigId="195cb9aa-5c2f-4dcf-916e-69c131a39a7f" sshConfig="root@170.83.105.136:209 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="06437f8f-fa79-451b-b3d2-13d156d03ddd" name="BASE_211">
+        <fileTransfer rootFolder="/var/www/importacao" accessType="SFTP" host="170.83.105.136" port="211" sshConfigId="6c5c2cd2-132e-40eb-bc24-b3813280f1d6" sshConfig="root@170.83.105.136:211">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f460c31c-9e53-4cb7-a76b-3ebec6baec40" name="BASE_210">
+        <fileTransfer rootFolder="/var/www/importacao" accessType="SFTP" host="170.83.105.136" port="210" sshConfigId="72d141ab-adb3-4a6b-9e01-1f3fccae0569" sshConfig="root@170.83.105.136:210">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6900ac7c-7367-434c-8b81-8ba654dd77b3" name="BASE_227">
+        <fileTransfer rootFolder="/var/www/importacao" accessType="SFTP" host="170.83.105.136" port="227" sshConfigId="a4403d59-4402-4b5b-b523-7f5e6b56defd" sshConfig="root@170.83.105.136:227">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7c50aabc-7e39-4008-84a3-aa1410dba101" name="BASE_223">
+        <fileTransfer rootFolder="/var/www/importacao" accessType="SFTP" host="170.83.105.136" port="223" sshConfigId="108bf1b6-c262-4c04-aa48-f461c3820c85" sshConfig="root@170.83.105.136:223">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c0ee6de7-c5ef-49c3-9402-3820a17b0caf" name="BASE_206">
+        <fileTransfer rootFolder="/var/www/importacao" accessType="SFTP" host="170.83.105.136" port="226" sshConfigId="675906fa-f876-496b-88c8-08acd63ca5c2" sshConfig="root@170.83.105.136:226">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8185a5a9-ee42-4590-bbba-6a2e5aa0d580" name="BASE_224">
+        <fileTransfer rootFolder="/var/www/importacao" accessType="SFTP" host="170.83.105.136" port="224" sshConfigId="750f794a-ffdf-430e-8073-301890f447d3" sshConfig="root@170.83.105.136:224">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="15cbcf5b-9228-42fb-932d-b23e337ffb91" name="BASE_CARDOSO">
+        <fileTransfer rootFolder="/var/www/importacao" accessType="SFTP" host="170.83.105.136" port="2227" sshConfigId="4560634b-7eac-4018-a0f9-99bfe14d9775" sshConfig="root@170.83.105.136:2227 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
